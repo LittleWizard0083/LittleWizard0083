@@ -1,6 +1,6 @@
 👋 Hi, I’m @LittleWizard0083
 
-👀 I’m passionate about FrontEnd development and exploring innovative approaches to Server-Side Rendering (SSR), Client-Side Rendering (CSR), Incremental Static Regeneration (ISR), and Static Site Generation (SSG) Architectures.
+👀 I’m passionate about FrontEnd development and exploring innovative approaches to Server-Side Rendering (SSR), Client-Side Rendering (CSR), Incremental Static Regeneration (ISR), and Static Site Generation (SSG) Architectures. AI and Machine Learning.
 
 🌱 I’m currently immersing myself in the world of ReactJs and Remix, honing my skills to craft seamless and engaging user experiences.
 
